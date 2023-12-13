@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890651595215",
+    "project_id": "testappdistribution-ec685",
+    "storage_bucket": "testappdistribution-ec685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890651595215:android:f7ef75173e4cc3bfa382ba",
+        "android_client_info": {
+          "package_name": "com.codedivatest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRaWYUWeY7zUzvLQwrqzOSdSVn1qr4QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
